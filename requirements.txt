@@ -1,0 +1,8 @@
+# Pinned to the exact versions this script was tested against for reproducibility.
+numpy==2.4.2
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8
+# Optional: only needed for --mode real --ticker (yfinance download path).
+# A CSV of date,close prices runs the real-data mode without this dependency.
+yfinance>=0.2.30

@@ -1,0 +1,2 @@
+label,n_episodes,mean_hedged_pnl,std_hedged_pnl,mean_pnl_over_premium,win_rate,mean_variance_risk_premium,vrp_regression_slope,vrp_regression_intercept,vrp_regression_r2,vrp_regression_pvalue,corr_vrp_pnl,pnl_sign_matches_vrp_sign_rate,mean_residual_share,variance_risk_premium_check_passed
+SPY,1215,-0.4246795446750081,6.804677195338778,-0.12917252479093058,0.48477366255144033,0.0003268456448414184,36.413189171947735,-0.43658103697064593,0.41751742368791744,1.5602279601744243e-144,0.6461558818798429,0.891358024691358,0.04089260417975009,True
